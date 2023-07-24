@@ -1,0 +1,23 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.heading h3
+{
+    display: inline;
+    font-size: 22px;
+}
+
+.heading button
+{
+    float: right;
+}
